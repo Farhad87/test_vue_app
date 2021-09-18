@@ -1,6 +1,4 @@
-# test_vue_app
-
-> A Vue.js project
+# Пробное приложение на Vue.js
 
 ## Build Setup
 
